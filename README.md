@@ -8,3 +8,4 @@ Installation Instructions:
 2) Go to C:\Windows\System32\WindowsPowerShell\v1.0\Modules\
 3) Create directory weather_forecast (if the .psm1 file is renamed, make sure the folder name is the same as the file's, without the extension)
 4) Move weather_forecast.psm1 in the created folder
+5) Restart Powershell
